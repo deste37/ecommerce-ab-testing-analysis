@@ -49,8 +49,8 @@ Prima dell'ispezione dei dati, sono stati definiti i requisiti di potenza statis
 | **Z-Score** | - | - | **-1.3109** |
 | **p-value** | - | - | **0.1899** |
 | **95% Conf. Interval** | - | - | **[-0.39%, +0.08%]** |
-![Confidence Interval Plot](ci_plot.png)
 
+![Confidence Interval Plot](ci_plot.png)
 
 ---
 
